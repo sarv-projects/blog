@@ -41,26 +41,6 @@ It features user authentication, post CRUD operations, threaded comments, and a 
 **Steps**:
 
 ```bash
-# 1. Clone the repository
-git clone https://github.com/yourusername/blogcraft.git
+Clone the repository
+git clone https://github.com/sarv-projects/blog.git
 cd blogcraft
-
-# 2. Install dependencies
-pip install -r requirements.txt
-
-# 3. Configure database in settings.py or .env
-# Example .env:
-# DB_NAME=blogcraft
-# DB_USER=postgres
-# DB_PASSWORD=yourpassword
-# DB_HOST=localhost
-# DB_PORT=5432
-
-# 4. Apply migrations
-python manage.py migrate
-
-# 5. Create superuser
-python manage.py createsuperuser
-
-# 6. Run development server
-python manage.py runserver
