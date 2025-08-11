@@ -1,4 +1,4 @@
-# BlogCraft – Full-Stack Blogging Platform
+# Full-Stack Blogging Platform
 
 A production-grade blogging platform built with **Django**, **PostgreSQL**, **Bootstrap**, and **Jinja2 Templates**.  
 It features user authentication, post CRUD operations, threaded comments, and a responsive, user-friendly interface.
